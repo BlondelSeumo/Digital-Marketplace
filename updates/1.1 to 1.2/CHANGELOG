@@ -1,0 +1,13 @@
+[NEW] Added the ability to enable or disable an item
+[NEW] Enabled support for decimal pricing for better precision
+[NEW] Added a standalone link for the GDPR Cookie Policy
+[NEW] Added the ability to disable the extended license
+[UPDATE] Improved search functionality for more accurate and relevant results
+[UPDATE] Optimized item tags in URLs by removing unnecessary spaces
+[FIX] Resolved problems with filters on both desktop and mobile views
+[FIX] Corrected hCaptcha validation errors affecting some users
+[FIX] Fixed webhook handling issue with CoinGate payment gateway
+[FIX] Addressed currency compatibility issue with Flutterwave integration
+[FIX] Restored stable API connection with TrustIP
+[FIX] Resolved 404 error on the user dashboard
+[FIX] Fixed issue with admin 2-Factor Authentication functionality

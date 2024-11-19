@@ -1,0 +1,5 @@
+How to update?
+
+1 - Upload Files.zip to you directory where you uploaded the script and extract it
+
+2 - Go to PhpMyAdmin and import Database/database.sql
